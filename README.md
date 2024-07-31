@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on live projects and project testing
 - 📫 How to reach me LinkedIn 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: enjoy to code
+  
 
 <!---
 Palh49111/Palh49111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
